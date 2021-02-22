@@ -1,3 +1,7 @@
+systeminfo is hashed (/c/WINDOWS/system32/systeminfo)
+
 JOKA-TT127-05
 
 22.2.2021
+
+
