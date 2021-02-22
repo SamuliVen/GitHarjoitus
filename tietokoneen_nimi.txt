@@ -1,7 +1,6 @@
-systeminfo is hashed (/c/WINDOWS/system32/systeminfo)
+OS Version:                10.0.19042 N/A Build 19042
 
 JOKA-TT127-05
 
 22.2.2021
-
 
