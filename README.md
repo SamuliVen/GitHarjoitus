@@ -1,11 +1,11 @@
 # GitHarjoitus
 
-# This is an <h1>
-## This is an <h2> 
-###### This is an <h6> 
-
+<h1> Header1
+  
 *This text will be italic*
 _This will also be italic_
+
+<h2> Header 2
 
 **This text will be bold**
 __This will also be bold__
