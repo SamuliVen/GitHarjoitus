@@ -1,5 +1,5 @@
-# GitHarjoitus
-
+# GitHarjoitus :smiley:
+ 
 <h1> Header1 </h1>
   
 *This text will be italic*
@@ -17,4 +17,10 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 I think you should use an
-`<addr>` element here instead.
+`<addr>` element here instead. :grinning:
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
