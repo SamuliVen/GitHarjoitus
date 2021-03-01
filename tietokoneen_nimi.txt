@@ -8,4 +8,4 @@ JOKA-TT127-05
 
 Cortana.exe
 
-Terveisiä paikallisesti
+Terveisiä paikallisesti ja Githubista
