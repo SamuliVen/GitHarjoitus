@@ -1,3 +1,5 @@
+chrome.exe
+
 OS Version:                10.0.19042 N/A Build 19042
 
 JOKA-TT127-05
